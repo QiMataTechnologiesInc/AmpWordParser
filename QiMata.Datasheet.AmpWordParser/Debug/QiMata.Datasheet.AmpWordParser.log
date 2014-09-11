@@ -1,0 +1,23 @@
+﻿Build started 9/11/2014 7:20:41 PM.
+     1>Project "C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpWordParser\QiMata.Datasheet.AmpWordParser.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D QIMATADATASHEETAMPWORDPARSER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\QiMata.Datasheet.AmpWordParser.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D QIMATADATASHEETAMPWORDPARSER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D QIMATADATASHEETAMPWORDPARSER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\QiMata.Datasheet.AmpWordParser.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt QiMata.Datasheet.AmpWordParser.cpp Services\ComparisonService.cpp
+         ComparisonService.cpp
+         QiMata.Datasheet.AmpWordParser.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\Debug\QiMata.Datasheet.AmpWordParser.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\Debug\QiMata.Datasheet.AmpWordParser.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\Debug\QiMata.Datasheet.AmpWordParser.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\QiMata.Datasheet.AmpWordParser.obj
+         Debug\ComparisonService.obj
+         Debug\stdafx.obj
+            Creating library C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\Debug\QiMata.Datasheet.AmpWordParser.lib and object C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\Debug\QiMata.Datasheet.AmpWordParser.exp
+         QiMata.Datasheet.AmpWordParser.vcxproj -> C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\Debug\QiMata.Datasheet.AmpWordParser.dll
+     1>Done Building Project "C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpWordParser\QiMata.Datasheet.AmpWordParser.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.68

@@ -1,0 +1,9 @@
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\QiMata.Datasheet.Dal.Ef.dll.config
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\QiMata.Datasheet.Dal.Ef.dll
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\QiMata.Datasheet.Dal.Ef.pdb
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\EntityFramework.dll
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\EntityFramework.xml
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\obj\Debug\QiMata.Datasheet.Dal.Ef.dll
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\obj\Debug\QiMata.Datasheet.Dal.Ef.pdb

@@ -1,0 +1,12 @@
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\obj\Debug\QiMata.Datasheet.AmpPassThrough.csprojResolveAssemblyReference.cache
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.AmpPassThrough.exe.config
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.AmpPassThrough.exe
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.AmpPassThrough.pdb
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\EntityFramework.dll
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.Dal.Ef.dll
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.Dal.Ef.pdb
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\EntityFramework.xml
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\obj\Debug\QiMata.Datasheet.AmpPassThrough.exe
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\obj\Debug\QiMata.Datasheet.AmpPassThrough.pdb

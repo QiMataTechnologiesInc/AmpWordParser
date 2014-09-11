@@ -1,0 +1,9 @@
+c:\users\jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\bin\Debug\QiMata.Datasheet.SqlServer.dacpac
+c:\users\jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\bin\Debug\QiMata.Datasheet.SqlServer.dll
+c:\users\jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\bin\Debug\QiMata.Datasheet.SqlServer.pdb
+c:\users\jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\obj\Debug\QiMata.Datasheet.SqlServer.dll
+c:\users\jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\obj\Debug\QiMata.Datasheet.SqlServer.pdb
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\obj\Debug\Model.xml
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\obj\Debug\refactor.xml
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\obj\Debug\postdeploy.sql
+C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\obj\Debug\predeploy.sql
