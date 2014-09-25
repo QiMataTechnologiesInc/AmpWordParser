@@ -9,6 +9,6 @@ namespace QiMata.Datasheet.AmpPassThrough.Services
 {
     public interface IComparisonService
     {
-        IEnumerable<StringSectionMatch> ComapreStringSections(FlattenedDatasheet datasheet);
+        IEnumerable<StringSectionMatch> ComapreStringSections(FlattenedDatasheet datasheet1,FlattenedDatasheet datasheet2);
     }
 }

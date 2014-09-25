@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="..\$(Configuration)\QiMata.Datasheet.AmpWordParser.dll">
+      <Link>QiMata.Datasheet.AmpWordParser.dll</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="EntityFramework">
       <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -58,6 +64,7 @@
     <Compile Include="Services\ComparisonService.cs" />
     <Compile Include="Services\DataFlattenerService.cs" />
     <Compile Include="Services\IComparisonService.cs" />
+    <Compile Include="Services\NativeComparisonService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

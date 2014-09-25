@@ -19,3 +19,24 @@ C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.WordParser\bin\Debug\WordApi.xml
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.WordParser\obj\Debug\QiMata.Datasheet.WordParser.exe
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.WordParser\obj\Debug\QiMata.Datasheet.WordParser.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\QiMata.Datasheet.WordParser.exe.config
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\obj\Debug\QiMata.Datasheet.WordParser.exe
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\obj\Debug\QiMata.Datasheet.WordParser.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\QiMata.Datasheet.WordParser.exe
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\QiMata.Datasheet.WordParser.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\EntityFramework.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\NetOffice.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\OfficeApi.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\QiMata.Datasheet.Dal.Ef.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\Topshelf.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\VBIDEApi.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\WordApi.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\QiMata.Datasheet.Dal.Ef.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\EntityFramework.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\NetOffice.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\OfficeApi.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\VBIDEApi.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\bin\Debug\WordApi.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.WordParser\obj\Debug\QiMata.Datasheet.WordParser.csprojResolveAssemblyReference.cache

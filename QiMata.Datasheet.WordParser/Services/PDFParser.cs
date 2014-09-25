@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QiMata.Datasheet.Dal.Ef;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,18 +10,19 @@ namespace QiMata.Datasheet.WordParser.Services
     class PDFParser
     {
         private string _filePath;
+        private DatasheetContext _context;
 
         public PDFParser(string filePath)
         {
             _filePath = filePath;
+            _context = new DatasheetContext();
         }
 
         public async Task<bool> ParseAndSave()
         {
             try
             {
-                StartWordWithPdf();
-                await ProcessTextFromWord();
+                await StartWordWithPdfAdProcess();
                 return true;
             }
             catch
@@ -29,28 +31,52 @@ namespace QiMata.Datasheet.WordParser.Services
             }
         }
 
-        private Task ProcessTextFromWord()
-        {
-            //TODO: Put in the right paths
-            WordProcessor processor = new WordProcessor(GetInstanceName(_filePath),
-                "","");
-            return processor.Process();
-        }
-
         private string GetInstanceName(string _filePath)
         {
+            //fix for more interesting instances
+            return "Atmel";
             throw new NotImplementedException();
         }
 
-        private void StartWordWithPdf()
+        private Task StartWordWithPdfAdProcess()
         {
-            System.Diagnostics.Process process = new System.Diagnostics.Process();
-            System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
-            startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
-            startInfo.FileName = "cmd.exe";
-            startInfo.Arguments = "start Winword.exe \"" + _filePath + "\"";
-            process.StartInfo = startInfo;
-            process.Start();
+            var pdfBytes = System.IO.File.ReadAllBytes(_filePath);
+            using (NetOffice.WordApi.Application app = new NetOffice.WordApi.Application())
+            {
+#if DEBUG
+                app.Visible = true;
+#endif
+                var doc = app.Documents.Open(_filePath);
+
+                var datasheet = new Datasheet.Dal.Ef.Datasheet
+                {
+                    FilePath = _filePath,
+                    Pdf = pdfBytes,
+                    PdfProvider = GetInstanceName(_filePath),
+                };
+
+                foreach (var section in doc.Paragraphs)
+                {
+                    var newSection = new Section
+                    {
+
+                    };
+
+                    datasheet.Sections.Add(newSection);
+                    if (!String.IsNullOrEmpty(section.Range.Text) && ! String.IsNullOrWhiteSpace(section.Range.Text))
+                    {
+                        newSection.SectionText = section.Range.Text;
+                    }
+                    else
+                    {
+                        //Extract image!
+                        //newSection.SectionImage = section.Range.
+                    }
+                }
+                app.Quit();
+                _context.Datasheets.Add(datasheet);
+                return _context.SaveChangesAsync();
+            }
         }
     }
 }

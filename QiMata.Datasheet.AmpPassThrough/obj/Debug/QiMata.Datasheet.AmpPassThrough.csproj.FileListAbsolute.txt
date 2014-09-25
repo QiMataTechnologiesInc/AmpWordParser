@@ -10,3 +10,16 @@ C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\obj\Debug\QiMata.Datasheet.AmpPassThrough.exe
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.AmpPassThrough\obj\Debug\QiMata.Datasheet.AmpPassThrough.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.AmpPassThrough.exe.config
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\obj\Debug\QiMata.Datasheet.AmpPassThrough.exe
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\obj\Debug\QiMata.Datasheet.AmpPassThrough.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.AmpWordParser.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.AmpPassThrough.exe
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.AmpPassThrough.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\EntityFramework.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.Dal.Ef.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\QiMata.Datasheet.Dal.Ef.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\EntityFramework.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.AmpPassThrough\obj\Debug\QiMata.Datasheet.AmpPassThrough.csprojResolveAssemblyReference.cache

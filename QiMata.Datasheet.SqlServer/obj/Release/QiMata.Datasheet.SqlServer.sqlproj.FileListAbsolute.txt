@@ -1,0 +1,9 @@
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\bin\Release\QiMata.Datasheet.SqlServer.dacpac
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\bin\Release\QiMata.Datasheet.SqlServer.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\bin\Release\QiMata.Datasheet.SqlServer.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\obj\Release\QiMata.Datasheet.SqlServer.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\obj\Release\QiMata.Datasheet.SqlServer.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\obj\Release\Model.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\obj\Release\refactor.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\obj\Release\postdeploy.sql
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\obj\Release\predeploy.sql

@@ -12,8 +12,15 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QiMata.Datasheet.Dal.Ef", "QiMata.Datasheet.Dal.Ef\QiMata.Datasheet.Dal.Ef.csproj", "{CE65A4F6-B6CE-4626-9E79-657DDCFF4B42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QiMata.Datasheet.AmpPassThrough", "QiMata.Datasheet.AmpPassThrough\QiMata.Datasheet.AmpPassThrough.csproj", "{D6E05E41-AFAB-41AC-8A5C-A73B3DDA0F1E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F643A17C-4824-4859-9401-884068F64CFC} = {F643A17C-4824-4859-9401-884068F64CFC}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QiMata.Datasheet.AmpWordParser", "QiMata.Datasheet.AmpWordParser\QiMata.Datasheet.AmpWordParser.vcxproj", "{F643A17C-4824-4859-9401-884068F64CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QiMata.Datasheet.Miner", "QiMata.Datasheet.Miner\QiMata.Datasheet.Miner.csproj", "{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workers", "Workers", "{4A42BB5F-01B7-4D9D-9FAE-288548D5FF54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,12 +86,25 @@ Global
 		{F643A17C-4824-4859-9401-884068F64CFC}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{F643A17C-4824-4859-9401-884068F64CFC}.Release|Win32.ActiveCfg = Release|Win32
 		{F643A17C-4824-4859-9401-884068F64CFC}.Release|Win32.Build.0 = Release|Win32
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{9257FBD1-D4A3-4088-A3E2-9E6DDD3FB6A2} = {4A42BB5F-01B7-4D9D-9FAE-288548D5FF54}
 		{9F5EBC82-D1F7-4C40-9AD7-75A182FB1175} = {B1652FC9-E1F0-43D2-AADF-1574CF21B71F}
 		{CE65A4F6-B6CE-4626-9E79-657DDCFF4B42} = {B1652FC9-E1F0-43D2-AADF-1574CF21B71F}
+		{D6E05E41-AFAB-41AC-8A5C-A73B3DDA0F1E} = {4A42BB5F-01B7-4D9D-9FAE-288548D5FF54}
+		{7A0B622C-8733-4B0B-B2EA-6BE6686D39E4} = {4A42BB5F-01B7-4D9D-9FAE-288548D5FF54}
 	EndGlobalSection
 EndGlobal

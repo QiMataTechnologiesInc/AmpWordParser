@@ -7,3 +7,8 @@ C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\obj\Debug\refactor.xml
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\obj\Debug\postdeploy.sql
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.SqlServer\obj\Debug\predeploy.sql
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\bin\Debug\QiMata.Datasheet.SqlServer.dacpac
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\bin\Debug\QiMata.Datasheet.SqlServer.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\bin\Debug\QiMata.Datasheet.SqlServer.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\obj\Debug\QiMata.Datasheet.SqlServer.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.SqlServer\obj\Debug\QiMata.Datasheet.SqlServer.pdb

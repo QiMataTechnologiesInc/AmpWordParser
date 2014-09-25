@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace QiMata.Datasheet.AmpPassThrough.Models
 {
+
     public class FlattenedDatasheet
     {
         public int DataSheetId { get; set; }

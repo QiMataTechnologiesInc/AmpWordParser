@@ -7,3 +7,13 @@ C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\obj\Debug\QiMata.Datasheet.Dal.Ef.dll
 C:\Users\Jared\documents\visual studio 2013\Projects\QiMata.Datasheet.WordParser\QiMata.Datasheet.Dal.Ef\obj\Debug\QiMata.Datasheet.Dal.Ef.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\QiMata.Datasheet.Dal.Ef.dll.config
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\QiMata.Datasheet.Dal.Ef.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\QiMata.Datasheet.Dal.Ef.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\EntityFramework.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\EntityFramework.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\obj\Debug\QiMata.Datasheet.Dal.Ef.csprojResolveAssemblyReference.cache
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\obj\Debug\QiMata.Datasheet.Dal.Ef.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\obj\Debug\QiMata.Datasheet.Dal.Ef.pdb

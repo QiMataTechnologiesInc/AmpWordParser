@@ -1,0 +1,14 @@
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\QiMata.Datasheet.Miner.exe.config
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\QiMata.Datasheet.Miner.exe
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\QiMata.Datasheet.Miner.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\HtmlAgilityPack.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\Newtonsoft.Json.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\System.Net.Http.Formatting.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\Topshelf.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\HtmlAgilityPack.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\HtmlAgilityPack.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\Newtonsoft.Json.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\bin\Release\System.Net.Http.Formatting.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\obj\Release\QiMata.Datasheet.Miner.csprojResolveAssemblyReference.cache
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\obj\Release\QiMata.Datasheet.Miner.exe
+C:\Git\AmpWordParser\QiMata.Datasheet.Miner\obj\Release\QiMata.Datasheet.Miner.pdb

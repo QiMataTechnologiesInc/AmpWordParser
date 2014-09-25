@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Datasheet] (Schema)
+       [Datasheet].[Datasheet] (Table)
+       [Datasheet].[Section] (Table)
+       [Datasheet].[Category] (Table)
+       Default Constraint on [Datasheet].[Datasheet].[DateSaved] (Default Constraint)
+       [Datasheet].[FK_SECTION_DATASHEET] (Foreign Key)
+       [Datasheet].[FK_SECTION_SECTION] (Foreign Key)
+       [Datasheet].[FK_CATEGORY_CATEGORY] (Foreign Key)
+       [dbo].[CommaSeperatedCategoryHeirarchies] (View)
+
+** Supporting actions

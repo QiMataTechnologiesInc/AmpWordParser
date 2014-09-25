@@ -68,4 +68,7 @@
     <Build Include="Datasheet\Tables\Section.sql" />
     <Build Include="Datasheet\Tables\Datasheet.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="QiMata.Datasheet.SqlServer.publish.xml" />
+  </ItemGroup>
 </Project>

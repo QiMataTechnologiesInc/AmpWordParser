@@ -9,29 +9,32 @@ namespace QiMata.Datasheet.AmpPassThrough.Services
 {
     public class ComparisonService : IComparisonService
     {
-        public IEnumerable<StringSectionMatch> ComapreStringSections(FlattenedDatasheet datasheet)
+        public IEnumerable<StringSectionMatch> ComapreStringSections(FlattenedDatasheet datasheet1, FlattenedDatasheet datasheet2)
         {
-            List<StringSectionMatch> matches = new List<StringSectionMatch>(datasheet.FlattenedSections.Count * datasheet.FlattenedSections.First().StringSections.Count);
-            foreach(var section in datasheet.FlattenedSections)
-            {
-                Parallel.ForEach(section.StringSections, x =>
-                    {
-                        Parallel.ForEach(section.StringSections, y =>
+            List<StringSectionMatch> matches = new List<StringSectionMatch>(datasheet1.FlattenedSections.Count * datasheet2.FlattenedSections.Count);
+            Parallel.ForEach(datasheet1.FlattenedSections, x =>
+                {
+                    Parallel.ForEach(datasheet2.FlattenedSections, y =>
+                        {
+                            foreach(var section1 in x.StringSections)
                             {
-                                if (x.Id != y.Id)
+                                foreach(var section2 in y.StringSections)
                                 {
-                                    if (x.StringHash == y.StringHash && x.StringLength == y.StringLength)
+                                    if (section1.Id != section2.Id)
                                     {
-                                        matches.Add(new StringSectionMatch
+                                        if (section1.StringHash == section2.StringHash && section1.StringLength == section2.StringLength)
+                                        {
+                                            matches.Add(new StringSectionMatch
                                             {
-                                                Section1 = x,
-                                                Section2 = y
+                                                Section1 = section1,
+                                                Section2 = section2
                                             });
+                                        }
                                     }
                                 }
-                            });
-                    });
-            }
+                            }
+                        });
+                });
             return matches; 
         }
     }

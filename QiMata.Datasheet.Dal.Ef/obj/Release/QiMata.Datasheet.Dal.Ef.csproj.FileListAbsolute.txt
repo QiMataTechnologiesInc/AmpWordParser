@@ -1,0 +1,10 @@
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Release\QiMata.Datasheet.Dal.Ef.dll.config
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Release\QiMata.Datasheet.Dal.Ef.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Release\QiMata.Datasheet.Dal.Ef.pdb
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Release\EntityFramework.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Release\EntityFramework.SqlServer.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Release\EntityFramework.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\bin\Release\EntityFramework.SqlServer.xml
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\obj\Release\QiMata.Datasheet.Dal.Ef.csprojResolveAssemblyReference.cache
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\obj\Release\QiMata.Datasheet.Dal.Ef.dll
+C:\Git\AmpWordParser\QiMata.Datasheet.Dal.Ef\obj\Release\QiMata.Datasheet.Dal.Ef.pdb

@@ -21,12 +21,6 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="QiMata.Datasheet.AmpWordParser.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Services\ComparisonService.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Models\StringSection.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -41,13 +35,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="QiMata.Datasheet.AmpWordParser.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Services\ComparisonService.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
